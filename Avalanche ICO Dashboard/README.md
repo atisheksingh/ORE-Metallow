@@ -1,0 +1,1 @@
+ORE coin from soil ecosystem powered by avax c-chain 

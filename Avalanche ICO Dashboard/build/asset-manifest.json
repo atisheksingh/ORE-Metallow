@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ORE-Metallow/static/css/main.493e9c87.chunk.css",
+    "main.js": "/ORE-Metallow/static/js/main.496e6d00.chunk.js",
+    "main.js.map": "/ORE-Metallow/static/js/main.496e6d00.chunk.js.map",
+    "runtime-main.js": "/ORE-Metallow/static/js/runtime-main.972dca27.js",
+    "runtime-main.js.map": "/ORE-Metallow/static/js/runtime-main.972dca27.js.map",
+    "static/css/2.044e7b24.chunk.css": "/ORE-Metallow/static/css/2.044e7b24.chunk.css",
+    "static/js/2.7413bc46.chunk.js": "/ORE-Metallow/static/js/2.7413bc46.chunk.js",
+    "static/js/2.7413bc46.chunk.js.map": "/ORE-Metallow/static/js/2.7413bc46.chunk.js.map",
+    "static/js/3.9bda2452.chunk.js": "/ORE-Metallow/static/js/3.9bda2452.chunk.js",
+    "static/js/3.9bda2452.chunk.js.map": "/ORE-Metallow/static/js/3.9bda2452.chunk.js.map",
+    "index.html": "/ORE-Metallow/index.html",
+    "precache-manifest.c1221d881b6878e4bf2ba538982f4c5b.js": "/ORE-Metallow/precache-manifest.c1221d881b6878e4bf2ba538982f4c5b.js",
+    "service-worker.js": "/ORE-Metallow/service-worker.js",
+    "static/css/2.044e7b24.chunk.css.map": "/ORE-Metallow/static/css/2.044e7b24.chunk.css.map",
+    "static/css/main.493e9c87.chunk.css.map": "/ORE-Metallow/static/css/main.493e9c87.chunk.css.map",
+    "static/js/2.7413bc46.chunk.js.LICENSE.txt": "/ORE-Metallow/static/js/2.7413bc46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.972dca27.js",
+    "static/css/2.044e7b24.chunk.css",
+    "static/js/2.7413bc46.chunk.js",
+    "static/css/main.493e9c87.chunk.css",
+    "static/js/main.496e6d00.chunk.js"
+  ]
+}
